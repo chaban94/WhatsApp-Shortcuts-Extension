@@ -1,11 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "WhatsApp Web Shortcuts",
+  "name": "WhatsApp-Shortcuts",
   "version": "1.0",
   "description": "Add keyboard shortcuts to WhatsApp Web message actions",
   "permissions": [
-    "activeTab",
-    "scripting"
+    "activeTab"
   ],
   "host_permissions": [
     "https://web.whatsapp.com/*"
@@ -17,6 +16,6 @@
     }
   ],
   "icons": {
-   
+    "96": "whatsapp-icon.png"
   }
 } 
