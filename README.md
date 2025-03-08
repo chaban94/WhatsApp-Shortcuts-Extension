@@ -1,6 +1,6 @@
 # WhatsApp Web Shortcuts Extension
 
-This browser extension adds keyboard shortcuts and hover actions to WhatsApp Web messages.
+This browser extension adds keyboard shortcuts to WhatsApp Web messages.
 
 ## Features
 
@@ -11,10 +11,8 @@ This browser extension adds keyboard shortcuts and hover actions to WhatsApp Web
    - Press `f` to forward message
    - Press `d` to delete message
    - Press `s` to star message
+   - Press `l` to download message
 
-2. Hover Shortcuts:
-   - Hover over any message to see shortcut buttons
-   - Click the shortcut buttons to perform actions directly
 
 ## Installation
 
@@ -27,7 +25,7 @@ This browser extension adds keyboard shortcuts and hover actions to WhatsApp Web
 
 1. Open WhatsApp Web
 2. Use keyboard shortcuts by pressing the corresponding keys
-3. Hover over messages to see and use the shortcut buttons
+
 
 ## Note
 
