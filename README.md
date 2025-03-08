@@ -31,3 +31,8 @@ This browser extension adds keyboard shortcuts to WhatsApp Web messages.
 
 Make sure you have WhatsApp Web open and a message selected when using keyboard shortcuts. "# WhatsApp-Shortcuts-Extension" 
 "# WhatsApp-Shortcuts-Extension" 
+
+## TO-DO
+
+1. Implement fix for other dropdown menus being targettet by the shortcuts (ex. Chat Menu dropdown)
+2. Implement new code that detects the menu items instead of being hardcoded

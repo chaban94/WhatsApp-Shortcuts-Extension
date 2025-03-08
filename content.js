@@ -202,7 +202,7 @@ function addShortcutLabels() {
             }
             
             // For other actions, check if the text contains the action
-            if (text.includes(action)) {
+            if (text.toLowerCase() === action.toLowerCase()) {
                 // Create a container for the menu item content
                 const contentDiv = item.querySelector('div');
                 if (contentDiv) {
