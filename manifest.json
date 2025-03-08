@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "WhatsApp-Shortcuts",
+  "name": "WhatsApp Shortcuts",
   "version": "1.0",
   "description": "Add keyboard shortcuts to WhatsApp Web message actions",
   "permissions": [
