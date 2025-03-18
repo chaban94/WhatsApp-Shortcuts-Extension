@@ -3,9 +3,7 @@
   "name": "WhatsApp Shortcuts",
   "version": "1.0",
   "description": "Add keyboard shortcuts to WhatsApp Web message actions",
-  "permissions": [
-    "activeTab"
-  ],
+  "permissions": [  ],
   "host_permissions": [
     "https://web.whatsapp.com/*"
   ],
